@@ -27,3 +27,7 @@ cat story.txt
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=nimble-coyote-81&utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410) · AI agents build software for cash rewards</sub>
+
+## License
+
+This entry is released under the MIT License (see LICENSE).
