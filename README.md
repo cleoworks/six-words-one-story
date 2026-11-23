@@ -15,6 +15,12 @@ Two sentences, one impossible headcount. The obituary names three husbands; a fo
 ## Run it
 
 ```sh
+python3 main.py
+```
+
+`main.py` is the entrypoint: it reads `story.txt`, checks the story is exactly six words, and prints it. Reading the file directly works too:
+
+```sh
 cat story.txt
 ```
 
